@@ -9,6 +9,8 @@ To learn more about the butterfly curve, visit [Wikipedia](https://en.wikipedia.
 
 Finally, I was playing around with 3D shapes when I accidently developed the look of a gradient background by using a torus shape and enlarging it. I love the use of the torus with the butterfly sketch! 
 
+![A screenshot of the Butterfly Curve and Gradient Background](butterfly-sketch.png)
+
 See the Pen <a href="https://codepen.io/huesofheart/pen/YzeRgvK">
   Butterfly Curve</a> by Lexi ♡ (<a href="https://codepen.io/huesofheart">@huesofheart</a>)
   on <a href="https://codepen.io">CodePen</a>.
